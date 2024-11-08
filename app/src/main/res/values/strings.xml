@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">coba_coba</string>
+    <string name="title_activity_detail_wisata_maps">DetailWisataMapsActivity</string>
+    <string name="title_activity_maps_wisata">MapsWisataActivity</string>
+    <string name="API_KEY_MAP">AIzaSyBLupfND-T_X4dxOPCB4deor0NZ2Q-7sog</string>
+</resources>
